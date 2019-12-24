@@ -1,0 +1,7 @@
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\obj\Debug\Assignment1Test.csprojResolveAssemblyReference.cache
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\bin\Debug\Assignment1Test.dll
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\bin\Debug\Assignment1Test.pdb
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\bin\Debug\Assignment1.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\bin\Debug\Assignment1.pdb
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\obj\Debug\Assignment1Test.dll
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\Assignment1\Assignment1Test\obj\Debug\Assignment1Test.pdb

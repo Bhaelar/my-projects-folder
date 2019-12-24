@@ -1,0 +1,6 @@
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\class7\bin\Debug\class7.exe.config
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\class7\bin\Debug\class7.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\class7\bin\Debug\class7.pdb
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\class7\obj\Debug\class7.csprojResolveAssemblyReference.cache
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\class7\obj\Debug\class7.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\class7\obj\Debug\class7.pdb

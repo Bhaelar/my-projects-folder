@@ -1,0 +1,6 @@
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\CGPA calculator\CGPA calculator\bin\Debug\CGPA calculator.exe.config
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\CGPA calculator\CGPA calculator\bin\Debug\CGPA calculator.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\CGPA calculator\CGPA calculator\bin\Debug\CGPA calculator.pdb
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\CGPA calculator\CGPA calculator\obj\Debug\CGPA calculator.csprojResolveAssemblyReference.cache
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\CGPA calculator\CGPA calculator\obj\Debug\CGPA calculator.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\CGPA calculator\CGPA calculator\obj\Debug\CGPA calculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\bankappgithub\bankappgithub\bin\Debug\bankappgithub.exe.config
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\bankappgithub\bankappgithub\bin\Debug\bankappgithub.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\bankappgithub\bankappgithub\bin\Debug\bankappgithub.pdb
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\bankappgithub\bankappgithub\obj\Debug\bankappgithub.csprojResolveAssemblyReference.cache
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\bankappgithub\bankappgithub\obj\Debug\bankappgithub.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\bankappgithub\bankappgithub\obj\Debug\bankappgithub.pdb

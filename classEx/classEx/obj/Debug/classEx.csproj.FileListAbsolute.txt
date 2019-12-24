@@ -1,0 +1,6 @@
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\classEx\classEx\bin\Debug\classEx.exe.config
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\classEx\classEx\bin\Debug\classEx.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\classEx\classEx\bin\Debug\classEx.pdb
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\classEx\classEx\obj\Debug\classEx.csprojResolveAssemblyReference.cache
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\classEx\classEx\obj\Debug\classEx.exe
+C:\Users\Modupe Okenla\Documents\SharpDevelop Projects\classEx\classEx\obj\Debug\classEx.pdb
